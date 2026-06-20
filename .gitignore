@@ -1,0 +1,7 @@
+*.log 
+*.jou 
+*.pb 
+*.wdb 
+*.str 
+.Xil/ 
+*/basic_gates.sim/ 
