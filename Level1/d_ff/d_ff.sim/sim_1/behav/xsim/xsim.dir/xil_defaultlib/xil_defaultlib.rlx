@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/VLSI_projects/Level1/d_ff/d_ff.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/VLSI_projects/Level1/d_ff/d_ff.srcs/sim_1/new/tb_d_ff.sv,1782131115,systemVerilog,,,,tb_d_ff,,uvm,../../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/VLSI_projects/Level1/d_ff/d_ff.srcs/sources_1/new/d_ff.sv,1782130163,systemVerilog,,C:/VLSI_projects/Level1/d_ff/d_ff.srcs/sim_1/new/tb_d_ff.sv,,d_ff,,uvm,../../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
