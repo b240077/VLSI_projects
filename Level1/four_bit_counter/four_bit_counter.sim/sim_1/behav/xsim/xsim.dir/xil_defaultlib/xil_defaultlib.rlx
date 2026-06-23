@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/VLSI_projects/Level1/four_bit_counter/four_bit_counter.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/VLSI_projects/Level1/four_bit_counter/four_bit_counter.srcs/sim_1/new/tb_four_bit_counter.sv,1782241580,systemVerilog,,,,tb_four_bit_counter,,uvm,../../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/VLSI_projects/Level1/four_bit_counter/four_bit_counter.srcs/sources_1/new/four_bit_counter.sv,1782241292,systemVerilog,,C:/VLSI_projects/Level1/four_bit_counter/four_bit_counter.srcs/sim_1/new/tb_four_bit_counter.sv,,four_bit_counter,,uvm,../../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
