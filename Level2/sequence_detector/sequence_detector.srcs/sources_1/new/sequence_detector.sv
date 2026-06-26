@@ -45,7 +45,6 @@ module sequence_detector (
         else
             state <= next_state;
     end
-
     //NEXT STATE
     always_comb begin
         case (state)
@@ -57,10 +56,8 @@ module sequence_detector (
             default: next_state = S0;
         endcase
     end
-
     // OUTPUT ONLY DEPENDS ON THE STATE AND NOT THE INPUT
     assign detected = (state == S4) ? 1'b1 : 1'b0;
-
 endmodule
 /*module seq_detector_mealy (
     input  logic clk,
