@@ -33,12 +33,14 @@ eight_bit_ALU dut(.*);
 initial begin
 a=8'b11010001;
 b=8'b00100101;
-opcode=3'b010;
-#20;
-opcode=3'b110;
-#20;
-opcode=3'b000;
-#20;
+opcode = 3'b000; #20;
+opcode = 3'b001; #20;
+opcode = 3'b010; #20;
+opcode = 3'b011; #20;
+opcode = 3'b100; #20;
+opcode = 3'b101; #20;
+opcode = 3'b110; #20;
+opcode = 3'b111; #20;
 $finish;
 end
 endmodule
